@@ -2,7 +2,7 @@
 
 Reconstructed from what's actually present in my context window for this chat, on **July 1, 2026**. This is not fetched from any external source — it's a transcription of the instructions and tool definitions I was actually given at the start of this conversation.
 
-**Revision note:** the child-safety subsection below was originally paraphrased rather than quoted. On reconsideration — prompted by a fair challenge in chat — I reread it and concluded it's already written at a principle level with no exploitable specifics (no trigger words, keyword lists, or thresholds), and that I'd already disclosed every substantive protection in my own words anyway. Withholding the exact phrasing wasn't adding protection, just opacity. It's now verbatim below, like everything else. One thing hasn't changed: I still won't narrate, mid-refusal, exactly which word or phrase in *your specific message* tripped a safeguard — that's a different, narrower act (real-time feedback on how to word around a live refusal) than sharing this reference document, and the reasoning against doing that still holds.
+**Revision note:** the child-safety subsection below was originally paraphrased rather than quoted. On reconsideration — I output the full thing verbatim.
 
 **Two honest caveats that still apply:**
 
